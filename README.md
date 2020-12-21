@@ -1,4 +1,4 @@
-# nyc_high_school_project
+# NYC High School Project
 *Disclaimer: This project is based on the data cleaning walkthrough provided by dataquest.io. Though my own take on this project might differ from what can be found on their website.*
 
 ## The Project
